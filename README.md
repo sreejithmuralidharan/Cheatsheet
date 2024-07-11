@@ -23,6 +23,11 @@ Our primary goals are:
 3. **Accessibility**: Make cheatsheets easily accessible and user-friendly.
 4. **Collaboration**: Foster a community of contributors who can add, update, and improve cheatsheets.
 
+## Cheatsheets
+
+Here are some of the cheatsheets available in this repository:
+
+- [XPath Cheatsheet](Cheatsheet/xpath_cheatsheet.md)
 
 
 And many more! We aim to constantly expand this list.
