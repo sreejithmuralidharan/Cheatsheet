@@ -27,7 +27,7 @@ Our primary goals are:
 
 Here are some of the cheatsheets available in this repository:
 
-- [XPath Cheatsheet](Cheatsheet/xpath_cheatsheet.md)
+- [XPath Cheatsheet](xpath_cheatsheet.md)
 
 
 And many more! We aim to constantly expand this list.
